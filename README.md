@@ -1,3 +1,1 @@
-# workshop_IPython
-# workshop_IPython
-# workshop_IPython
+# Data and notebooks for IPython workshop - Thursday, January 19
